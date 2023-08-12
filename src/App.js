@@ -19,7 +19,6 @@ function App() {
   return (
     <div className="w-[100vw] h-[100vh] flex justify-center items-center bg-[#071e3a] flex-col gap-10">
 
-
       <div className="text-[#f8c680] font-medium text-3xl">Decrement & Increment</div>
 
       <div className="bg-white flex justify-center gap-12 py-3 rounded-sm text-[25px] text-[#344151]">
